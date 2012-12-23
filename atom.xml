@@ -4,7 +4,7 @@
   <title><![CDATA[Pilihou's Blog]]></title>
   <link href="http://pilihou.github.com/atom.xml" rel="self"/>
   <link href="http://pilihou.github.com/"/>
-  <updated>2012-12-23T16:10:46+08:00</updated>
+  <updated>2012-12-23T16:57:02+08:00</updated>
   <id>http://pilihou.github.com/</id>
   <author>
     <name><![CDATA[Pilihou]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[aaabbb]]></title>
+    <link href="http://pilihou.github.com/blog/2012/12/23/aaabbb/"/>
+    <updated>2012-12-23T16:51:00+08:00</updated>
+    <id>http://pilihou.github.com/blog/2012/12/23/aaabbb</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
